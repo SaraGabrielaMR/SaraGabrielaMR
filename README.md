@@ -40,9 +40,6 @@
   <a href="https://www.instagram.com/03sara_gabriela?igsh=M3gxZDRmNDVkMnY=" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="[saragabriela237@gmail.com](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSDXXtWHDLlscxMqZhmQvDzVpwtvTrpjMwbKKjkHwHXmPcXZckmcfHFXQTzdPKBBCBRkqqCQ)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
